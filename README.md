@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World. 👋 I'm Suraj Verma</h1>
+<h1 align="center">Hello, World. 👋 I'm Rahul Meena</h1>
 
 <h3 align="center">An enthusiastic Full Stack Web Developer with a strong set of technical and problem-solving skills. Also have knowledge on system design and AWS</h3>
 
@@ -14,8 +14,8 @@
 
 <h2 align="left">☕ Let's Connect</h2>
 <p align="center">  
-<a href="https://www.linkedin.com/in/surajverma008/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajverma008" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  
-<a href="https://www.instagram.com/suraj_m0r0x7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj_m0r0x7" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/rahul-meena-775511193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  
+<a href="https://www.instagram.com/_iam_raahul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 
 
