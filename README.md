@@ -2,7 +2,7 @@
 
 <h3 align="center">An enthusiastic Full Stack Web Developer with a strong set of technical and problem-solving skills. Also have knowledge on system design and AWS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vermasuraj11011&label=Profile%20views&color=0e75b6&style=flat" alt="vermasuraj11011" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul428428&label=Profile%20views&color=0e75b6&style=flat" alt="rahul428428" /> </p>
 
 - 🌱 I’m currently learning  **Data Structures / Algorithms / SpringBoot **
 
