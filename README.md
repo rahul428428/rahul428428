@@ -7,10 +7,10 @@
 - 🌱 I’m currently learning  **Data Structures / Algorithms / SpringBoot **
 
 - 💬 Ask me about  **JAVA / DSA / SpringBoot **
-
+<!-- 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rahulmeena.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rahulmeena.netlify.app/) -->
 
 <h2 align="left">☕ Let's Connect</h2>
 <p align="center">  
