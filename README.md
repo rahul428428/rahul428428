@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul428428&label=Profile%20views&color=0e75b6&style=flat" alt="rahul428428" /> </p>
 
-- 🌱 I’m currently learning  **Data Structures / Algorithms / SpringBoot **
+- 🌱 I’m currently Working on  **Data Structures / Algorithms / SpringBoot **
 
 - 💬 Ask me about  **JAVA / DSA / SpringBoot **
 <!-- 
